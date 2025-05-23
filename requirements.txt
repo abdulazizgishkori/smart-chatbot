@@ -1,0 +1,8 @@
+streamlit
+openai
+reportlab
+PyMuPDF
+gtts
+pydub
+deep-translator
+langdetect
